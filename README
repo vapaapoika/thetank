@@ -1,0 +1,16 @@
+thetank
+
+DESCRIPTION
+
+A simple tank-kills-enemies game
+
+GETTING STARTED
+
+Just type following lines in terminal:
+
+cd thetank
+cp thetank.py /usr/bin/thetank
+chmod +x /usr/bin/thetank
+
+USAGE
+
