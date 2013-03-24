@@ -2,11 +2,12 @@ thetank
 
 DESCRIPTION
 
-A simple tank-kills-enemies game
+A simple tank-kills-enemies game.
 
 GETTING STARTED
 
-Just type following lines in terminal:
+First, you should install python2 and pygame packages.
+Then, the only thing you have to do is to type following lines in terminal:
 
 cd thetank
 cp thetank.py /usr/bin/thetank
@@ -15,4 +16,4 @@ chmod +x /usr/bin/thetank
 USAGE
 
 Just type thetank in terminal and press enter.
-Up, down, left and right keys to move (or W, S, A and D) and space to shoot fire. You can stop game by Escape key or quit by Q key.
+Use up, down, left and right keys to move (or W, S, A and D) and space to shoot fire. You can stop game by the Escape key or quit by the Q key.
